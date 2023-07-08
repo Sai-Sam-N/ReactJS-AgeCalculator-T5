@@ -1,0 +1,47 @@
+.AgeCalc{
+  text-align: center;
+  position: absolute;
+  top: 25%;
+  left: 40%;
+  display: block;
+}
+
+.header{
+  font-size: 24px;
+}
+
+h1{
+  margin: 0;
+}
+
+.normal{
+  font-size: 20px;
+  margin: 0%;
+  padding: 0%;
+}
+
+input{
+  height: 40px;
+  border: 1px solid #C5C5C5;
+  width: 100%;
+  margin: 0;
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+input:focus{
+  outline: none;
+  border: 1px solid #C5C5C5;
+}
+
+button{
+  background-color: rgb(43, 147, 250);
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  margin: 10px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+}
